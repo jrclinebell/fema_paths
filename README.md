@@ -1,5 +1,5 @@
-# FEMA paths
-# Note: Academy pre-requisites (12) = core (4) + PIO (1) + PDS (7)
+# 🎓 FEMA Certificate Pathways
+Note: Academy pre-requisites (12) = core (4) + PIO (1) + PDS (7)
 
 ---
 
