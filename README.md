@@ -37,7 +37,7 @@ Note: Academy pre-requisites (12) = core (4) + PIO (1) + PDS (7)
 
 ---
 
-## ⛰️ FEMA Non-path courses (4):
+## ⛰️ FEMA non-path courses (4):
 
 * **IS-553 Coordination between Water Utilities and Emergency Management Agencies** — [👁️ View Certificate](https://drive.google.com/file/d/1EHsjstK-SM6X_kW-4RIks99xfUmG6yLy/preview)
 * **IS-908 Emergency Management for Senior Officials** — [👁️ View Certificate](https://drive.google.com/file/d/1JkdOzIJxXvasB8296P6kmdUWj_x8h8T1/preview)
