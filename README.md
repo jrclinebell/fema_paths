@@ -3,7 +3,13 @@ Note: Academy pre-requisites (12) = core (4) + PIO (1) + PDS (7)
 
 ---
 
-## ⛰️ FEMA Core series (4 of 4):
+## ⛰️ FEMA Professional Development Series pathway :
+
+* **Professional Development Series certificate** — [👁️ View Certificate](https://drive.google.com/file/d/1hDT3h5V5mbH41GnbZdGqjQZa6ULHf00U/preview)
+
+---
+
+* ## ⛰️ FEMA Core series (4 of 4):
 
 * **IS-100 Introduction to Incident Command System, ICS-100** — [👁️ View Certificate](https://drive.google.com/file/d/1y-Evyx39MWVTLrWYdr_5SbYddjNtquIL/preview)
 * **IS-200 Basic Incident Command System for National Response, ICS-200** — [👁️ View Certificate](https://drive.google.com/file/d/1QoaQla8gUbHWFYDMVNCWlSE_XqW3d47R/preview)
