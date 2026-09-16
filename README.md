@@ -3,7 +3,7 @@ Note: Academy pre-requisites (12) = core (4) + PIO (1) + PDS (7)
 
 ---
 
-## ⛰️ FEMA Professional Development Series pathway :
+## ⛰️ FEMA Professional Development Series (PDS) pathway:
 
 * **Professional Development Series certificate** — [👁️ View Certificate](https://drive.google.com/file/d/1hDT3h5V5mbH41GnbZdGqjQZa6ULHf00U/preview)
 
