@@ -9,7 +9,7 @@ Note: Academy pre-requisites (12) = core (4) + PIO (1) + PDS (7)
 
 ---
 
-## ⛰️ FEMA Core series (4 of 4):
+## 🛡️ FEMA Core series (4 of 4):
 
 * **IS-100 Introduction to Incident Command System, ICS-100** — [👁️ View Certificate](https://drive.google.com/file/d/1y-Evyx39MWVTLrWYdr_5SbYddjNtquIL/preview)
 * **IS-200 Basic Incident Command System for National Response, ICS-200** — [👁️ View Certificate](https://drive.google.com/file/d/1QoaQla8gUbHWFYDMVNCWlSE_XqW3d47R/preview)
@@ -18,13 +18,13 @@ Note: Academy pre-requisites (12) = core (4) + PIO (1) + PDS (7)
 
 ---
 
-## ⛰️ FEMA PIO (1 of 1):
+## 🏛️ FEMA PIO (1 of 1):
 
 * **IS-29 Public Information Officer Awareness** — [👁️ View Certificate](https://drive.google.com/file/d/12Ierzfcp2fH4SqUcivNLWeeMeASzdiIh/preview)
 
 ---
 
-## ⛰️ FEMA Professional Development Series (7 of 7):
+## 🔒 FEMA Professional Development Series (7 of 7):
 
 * **IS-120 An Introduction to Exercises** — [👁️ View Certificate](https://drive.google.com/file/d/1iOGzhK6XTypxpOEdvKj1mtms_Dy_yAJh/preview)
 * **IS-230 Fundamentals of Emergency Management** — [👁️ View Certificate](https://drive.google.com/file/d/1Wyf2M9j_0vmhRZWSM5t7ek3v599fIKTY/preview)
@@ -36,14 +36,14 @@ Note: Academy pre-requisites (12) = core (4) + PIO (1) + PDS (7)
 
 ---
 
-## ⛰️ FEMA Advanced Professional Series (2 of 10):
+## ⚙️ FEMA Advanced Professional Series (2 of 10):
 
 * **IS-703 National Incident Management System Resource Management** — [👁️ View Certificate](https://drive.google.com/file/d/1OGSFEXuFoeZy6YbligblLz7NxpomwqJA/preview)
 * **IS-2200 Basic Emergency Operations Center Functions** — [👁️ View Certificate](https://drive.google.com/file/d/1jf1ykl9xQg6x8YJ6aRenbg3aahNQgd9j/preview)
 
 ---
 
-## ⛰️ FEMA non-path courses (4):
+## 🔌 FEMA non-path courses (4):
 
 * **IS-553 Coordination between Water Utilities and Emergency Management Agencies** — [👁️ View Certificate](https://drive.google.com/file/d/1EHsjstK-SM6X_kW-4RIks99xfUmG6yLy/preview)
 * **IS-908 Emergency Management for Senior Officials** — [👁️ View Certificate](https://drive.google.com/file/d/1JkdOzIJxXvasB8296P6kmdUWj_x8h8T1/preview)
